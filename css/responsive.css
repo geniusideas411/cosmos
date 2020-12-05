@@ -54,21 +54,10 @@
 }
 /*index*/
 /*gallery*/
-@media screen and (max-width:1140px) {
-    .gallery-section .image{
-      flex: 33.33%;
-    }
-  }
-  
+
   @media screen and (max-width:1140px) {
     .gallery-section .image{
-      flex: 50%;
-    }
-  }
-  
-  @media screen and (max-width:1140px) {
-    .gallery-section .image{
-      flex: 100%;
+      flex: 600%;
     }
   }
 /*gallery*/
