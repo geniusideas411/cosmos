@@ -1,5 +1,5 @@
 /*index*/
-@media only screen and (max-width: 1140px){
+@media only screen and (max-width: 2140px){
     .nav-list{
         flex-direction: column;
     }
