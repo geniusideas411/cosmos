@@ -57,7 +57,8 @@
 
   @media screen and (max-width:1140px) {
     .gallery-section .image{
-      flex: 60%;
+      flex: 100%;
+max-width: 100%;
     }
   }
 /*gallery*/
